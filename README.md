@@ -8,9 +8,9 @@ Este repositório é um copilado de todos jogos clones (e autorais) que criei.
 
 ## 🚩 Navegando pelos projetos
 
-- [2048 Game](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Um clone de um dos jogos para celular mais famosos de 2048, a única diferença é que esta é a versão web você possui uma nova maneira de jogar.
+- [2048 Game](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - Um clone de um dos jogos para celular mais famosos de 2048, a única diferença é que esta é a versão web você possui uma nova maneira de jogar.
 
-- [T-rex Game](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Um clone de um dos jogos de navegador mais famosos que se apresenta quando você não tem internet no Google Chrome: o T-rex Run.
+- [T-rex Game](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - Um clone de um dos jogos de navegador mais famosos que se apresenta quando você não tem internet no Google Chrome: o T-rex Run.
 
 
 ## 🛠 Tecnologias
