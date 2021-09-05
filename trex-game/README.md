@@ -16,7 +16,7 @@ Projeto foi construído utilizando **React.js** e nenhuma dependência adicional
 
 ## :video_game: Como Jogar
 
-Use as setas do teclado para mover o dinossauro para cima e para baixo e limpe a tecla de espaço para pular sobre os obstáculos
+Use as setas do teclado para mover o dinossauro para cima e para baixo e a tecla de espaço para pular sobre os obstáculos
 
 
 ## 🔨 Instalação Local
