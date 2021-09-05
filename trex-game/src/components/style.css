@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.App {
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  background: #fff;
+  transition: filter 1s;
+}
+
+.sub-title {
+  font-size: 1em;
+  font-family: "Press Start 2P", cursive;
+  margin-left: 80%;
+  margin-top: 2%;
+  color: #535353;
+}
