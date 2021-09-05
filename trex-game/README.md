@@ -14,7 +14,7 @@ Um clone de um dos jogos de navegador mais famosos que se apresenta quando você
 
 Projeto foi construído utilizando **React.js** e nenhuma dependência adicional incorporada ao projeto.
 
-## :video_game: How to play
+## :video_game: Como Jogar
 
 Use as setas do teclado para mover o dinossauro para cima e para baixo e limpe a tecla de espaço para pular sobre os obstáculos
 
