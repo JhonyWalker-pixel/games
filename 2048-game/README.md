@@ -28,15 +28,12 @@ Você precisará do [Node.js](https://nodejs.org) versão 10 ou superior, instal
 ```bash
 git clone https://github.com/JhonyWalker-pixel/trex-game.git
 
-```bash
 $ cd 2048-game
 $ code .
 ```
 
 E agora para rodar nosso jogo localmente basta abrir o arquivo `index.html` e abrir com a extensão do **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 
-## 📖 License
-```
 
 ## 📖 License
 
