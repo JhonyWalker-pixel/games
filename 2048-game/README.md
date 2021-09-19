@@ -26,7 +26,7 @@ Use as setas do teclado para mover o dinossauro para cima e para baixo e limpe a
 Você precisará do [Node.js](https://nodejs.org) versão 10 ou superior, instalado no seu computador para continuar e o [Yarn](https://yarnpkg.com/).
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/trex-game.git
+git clone https://github.com/JhonyWalker-pixel/2048-game.git
 
 $ cd 2048-game
 $ code .
