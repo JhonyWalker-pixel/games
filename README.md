@@ -1,25 +1,25 @@
-## 💻 Resumo do repositório
+## 💻 Repository Summary
 
-Este repositório é um copilado de todos jogos clones (e autorais) que criei.
+This repository is a compilation of all clone (and copyright) games I've created.
 
 ```text
-⚠ ESTES PROJETOS É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🚩 Navegando pelos projetos
+## 🚩 Navigating through projects
 
-- [2048 Game](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - Um clone de um dos jogos para celular mais famosos de 2048, a única diferença é que esta é a versão web você possui uma nova maneira de jogar.
+- [2048 Game](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - A clone of one of the most famous mobile games from 2048, the only difference is that this is the web version you have a new way to play.
 
-- [T-rex Game](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - Um clone de um dos jogos de navegador mais famosos que se apresenta quando você não tem internet no Google Chrome: o T-rex Run.
+- [T-rex Game](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - A clone of one of the most famous browser games that presents itself when you don't have internet on Google Chrome: T-rex Run.
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-Projetos foram construídos com diversas tecnologias e dependências
+Projects were built with different technologies and dependencies
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/games.git
@@ -28,7 +28,7 @@ $ cd games
 $ code .
 ```
 
-E agora para rodar localmente verifique os requisitos necessários no `README.md` de cada projeto
+And now to run locally check the necessary requirements in the `README.md` of each project
 
 ## 📖 License
 

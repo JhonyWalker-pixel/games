@@ -2,28 +2,28 @@
     <img src="./assets/repo-icon.png" alt="2048 Clone Game by Jhony Walker" width="200px" />
 </h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository Summary
 
-Um clone de um dos jogos para celular mais famosos de 2048, a única diferença é que esta é a versão web você possui uma nova maneira de jogar.
+A clone of one of the most famous mobile games from 2048, the only difference is that this is the web version you have a new way to play.
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-Projeto foi construído utilizando **VanillaJS** e as seguintes dependências:
+Project was built using **VanillaJS** and the following dependencies:
 
-- [Hammer](https://hammerjs.github.io/) -  é uma biblioteca JavaScript que dispara eventos para os gestos realizados em suas aplicações com HTML e JS
+- [Hammer](https://hammerjs.github.io/) -  is a JavaScript library that triggers events for gestures performed in your HTML and JS applications
 
-## :video_game: Como Jogar
+## :video_game: How to play
 
-Use as setas do teclado para mover o dinossauro para cima e para baixo e limpe a tecla de espaço para pular sobre os obstáculos
+Use the arrow keys to drag the blocks or if you want to click it can be used that way too
 
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [Node.js](https://nodejs.org) versão 10 ou superior, instalado no seu computador para continuar e o [Yarn](https://yarnpkg.com/).
+You will need [Node.js](https://nodejs.org) version 10 or higher but if you prefer to use [Yarn](https://yarnpkg.com/) , installed on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/2048-game.git
@@ -32,10 +32,10 @@ $ cd 2048-game
 $ code .
 ```
 
-E agora para rodar nosso jogo localmente basta abrir o arquivo `index.html` e abrir com a extensão do **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
+And now to run our game locally just open the `index.html` file and open it with the **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** extension**
 
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
 

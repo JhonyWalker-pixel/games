@@ -2,41 +2,39 @@
     <img src="./public/images/icon-repo-trex.png" alt="T-rex Clone Game by Jhony Walker" width="200px" />
 </h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository Summary
 
-Um clone de um dos jogos de navegador mais famosos que se apresenta quando você não tem internet no Google Chrome: o T-rex Run.
+A clone of one of the most famous browser games that presents itself when you don't have internet on Google Chrome: T-rex Run.
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-Projeto foi construído utilizando **React.js** e nenhuma dependência adicional incorporada ao projeto.
+Project was built using **React.js** and no additional dependencies built into the project.
 
-## :video_game: Como Jogar
+## :video_game: How to play
 
-Use as setas do teclado para mover o dinossauro para cima e para baixo e a tecla de espaço para pular sobre os obstáculos
+Use the arrow keys to move the dinosaur up and down and the space key to jump over obstacles
 
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [Node.js](https://nodejs.org) versão 10 ou superior, instalado no seu computador para continuar e o [Yarn](https://yarnpkg.com/).
+You will need [Node.js](https://nodejs.org) version 10 or higher but if you prefer to use [Yarn](https://yarnpkg.com/) , installed on your computer to continue.
 
-```bash
-git clone https://github.com/JhonyWalker-pixel/trex-game.git
-
-$ cd t-rex-game
-$ npm install
-```
-
-E agora para rodar nosso jogo localmente basta executar o seguinte comando:
 
 ```bash
 $ cd t-rex-game
-$ npm start
+$ npm install or yarn install
+```
+
+To start the project now just run the following command:
+
+```bash
+$ npm start or yarn run
 ```
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
