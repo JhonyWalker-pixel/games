@@ -32,4 +32,4 @@ And now to run locally check the necessary requirements in the `README.md` of ea
 
 ## 📖 License
 
-Veja a licença atribuida de cada projeto no `README.md`
+See the license assigned for each project in `README.md`
