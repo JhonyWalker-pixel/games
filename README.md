@@ -10,6 +10,10 @@ This repository is a compilation of all clone (and copyright) games I've created
 
 - [2048 Game](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - A clone of one of the most famous mobile games from 2048, the only difference is that this is the web version you have a new way to play.
 
+- [Codepad - Among Us](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - A clone of the mini game that is in Among Us where the objective is to select the correct pattern.
+
+- [Fix Wiring - Among Us](https://github.com/JhonyWalker-pixel/games/tree/master/2048-game) - A clone of the mini game that is in Among Us where the goal is to connect the wires.
+
 - [T-rex Game](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - A clone of one of the most famous browser games that presents itself when you don't have internet on Google Chrome: T-rex Run.
 
 
