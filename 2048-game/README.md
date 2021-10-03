@@ -14,7 +14,11 @@ A clone of one of the most famous mobile games from 2048, the only difference is
 
 Project was built using **VanillaJS** and the following dependencies:
 
-- [Hammer](https://hammerjs.github.io/) -  is a JavaScript library that triggers events for gestures performed in your HTML and JS applications
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
+
+- [Hammer](https://hammerjs.github.io/) - Is a JavaScript library that triggers events for gestures performed in your HTML and JS applications
 
 ## :video_game: How to play
 
