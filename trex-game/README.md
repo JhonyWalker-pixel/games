@@ -7,7 +7,7 @@
 A clone of one of the most famous browser games that presents itself when you don't have internet on Google Chrome: T-rex Run.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
