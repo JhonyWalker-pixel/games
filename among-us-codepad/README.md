@@ -9,7 +9,7 @@
 A clone of the mini game that is in Among Us where the objective is to select the correct pattern.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 #### Project was built using **HTML** and **CSS** but what is it?
