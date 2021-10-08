@@ -7,7 +7,7 @@
 A clone of one of the most famous mobile games from 2048, the only difference is that this is the web version you have a new way to play.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
