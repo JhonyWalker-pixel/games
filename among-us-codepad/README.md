@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="./images/logo-repo-among.png" alt="Among Us Clone Game by Jhony Walker" width="300px" />
+    <img src="./images/logo-repo-among.png" alt="Among Us Clone Game by Jhony Walker" width="20%" />
 </h1>
 
 
