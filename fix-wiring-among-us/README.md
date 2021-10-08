@@ -7,7 +7,7 @@
 A clone of the mini game that is in Among Us where the goal is to connect the wires.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 #### Project was built using **HTML**, **CSS** and **SVG** but what is it?
